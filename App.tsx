@@ -1,5 +1,6 @@
 
 import React, { useState, useMemo, useEffect } from 'react';
+import { Analytics } from "@vercel/analytics/react";
 import { AppView, Project, Producer, User } from './types';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
