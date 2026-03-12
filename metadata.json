@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SocioRural 12_03_26",
+  "description": "Marketplace de matchmaking para conectar pequeños productores rurales de Uruguay con inversores individuales en proyectos ganaderos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
